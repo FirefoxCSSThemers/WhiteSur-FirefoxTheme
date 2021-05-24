@@ -1,6 +1,6 @@
 # WhiteSur Tweaked Theme
 > A Firefox theme made to simulate Safari on macOS Big Sur 11. Works best on Proton.
-
+Made by **Agnihotra Nath**
 ### Compatibility
 > This release was tested on the following platforms (only supports Firefox 70+):
 > - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
