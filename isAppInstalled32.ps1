@@ -3,7 +3,9 @@ $installed = (Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\U
 $installed.displayname
 if ($installed.displayName -match "PowerShell 7-x86") {
     Set-Location C:\
-    
+    Invoke-WebRequest https://raw.githubusercontent.com/FirefoxCSSThemers/WhiteSur-Tweaked/main/isInstalled.bat -Outfile isInstalled.bat
+    isInstalled.bat
 }else{
-    Write-Host "not-installed"
+    Set-Location C:\
+    
 }
