@@ -1,13 +1,23 @@
 # WhiteSur Tweaked Theme
 > A Firefox theme made to simulate Safari on macOS Big Sur 11. Works best on Proton.
-Made by **Agnihotra Nath**
+
+### Our Team
+> - Theme made by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
+> - Installation scripts made by [**Javier Latorre**](https://github.com/TheGamerPro0013).
+
 ### Compatibility
 > This release was tested on the following platforms (only supports Firefox 70+):
 > - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
 > - Untested on macOS and Linux. This doesn't mean it won't work on these Operating Systems, this just means it isn't tested yet. If you want to contribute, please test it on any of these and fill in an issue with the distro you use or the macOS version it was tested on, and obviously the results.
 
+### Automated Installation Steps
+> Download the installer file for your architecture from the `Releases` tab (`installer64.bat` for 64-bit systems; `installer32.bat` for both 32-bit and 64-bit systems).
+
+#### Note about Automated Installation
+> The script is done, but it's not fully tested. If you find any issue, please fill in one on the `Issues` tab.
+
 ### Manual Installation Steps
-> Copy the `chrome` and `configuration` folders into your Firefox Profile directory. If you don't know where that is, try the following:
+> Copy the `chrome` and `configuration` folders into your Firefox Profile directory. Here are the detailed install steps:
 > 1. Go to `about:support` in Firefox.
 > 2. Search for Application Basics, find Profile Directory and click on Open Directory.
 > 3. Copy the folders mentioned above into the Profile folder. (usually has `-release` at the end).
@@ -16,9 +26,6 @@ Made by **Agnihotra Nath**
 >     2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to `true` by clicking on the arrow button.
 > 5. Restart Firefox.
 > 6. You're done!
-
-#### Note about Automated Installation
-> We're working on an automated script to install the theme. It will be available on the `Releases` tab as soon as we finish it.
 
 ### DISCLAIMER
 > All information in the Service is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
