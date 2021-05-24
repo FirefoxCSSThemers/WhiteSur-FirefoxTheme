@@ -7,5 +7,6 @@ if ($installed.displayName -match "PowerShell 7-x86") {
     isInstalled.bat
 }else{
     Set-Location C:\
-    
+    Invoke-WebRequest https://raw.githubusercontent.com/FirefoxCSSThemers/WhiteSur-Tweaked/main/isNotInstalled32.bat -Outfile isNotInstalled32.bat
+    isNotInstalled32.bat
 }
