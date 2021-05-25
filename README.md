@@ -5,6 +5,9 @@
 > - Theme made by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
 > - Installation scripts made by [**Javier Latorre**](https://github.com/TheGamerPro0013) with the help of [**Lubzz**](https://github.com/Lubzz).
 
+### Screenshot
+![Preview](https://github.com/FirefoxCSSThemers/WhiteSur-Tweaked/raw/main/WhiteSur-Tweaked.png)
+
 ### Compatibility
 > This release was tested on the following platforms (only supports Firefox 70+):
 > - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
