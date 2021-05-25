@@ -3,7 +3,7 @@
 
 ### Contributors
 > - Theme made by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
-> - Installation scripts made by [**Javier Latorre**](https://github.com/TheGamerPro0013).
+> - Installation scripts made by [**Javier Latorre**](https://github.com/TheGamerPro0013) with the help of [**Lubzz**](https://github.com/Lubzz).
 
 ### Compatibility
 > This release was tested on the following platforms (only supports Firefox 70+):
