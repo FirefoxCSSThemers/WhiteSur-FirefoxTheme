@@ -4,6 +4,7 @@
 ### Contributors
 > - Theme made by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
 > - Installation scripts made by [**Javier Latorre**](https://github.com/TheGamerPro0013) with the help of [**Lubzz**](https://github.com/Lubzz).
+> - Published by [**Javier Latorre**](https://github.com/TheGamerPro0013).
 
 ### Screenshot
 ![Preview](https://github.com/FirefoxCSSThemers/WhiteSur-Tweaked/raw/main/WhiteSur-Tweaked.png)
