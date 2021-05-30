@@ -18,7 +18,7 @@
 > Download the installer file for your architecture from the `Releases` tab (`installer64.bat` for 64-bit systems; `installer32.bat` for both 32-bit and 64-bit systems).
 
 #### Note about Automated Installation
-> The script is done, but it's not fully tested. If you find any issue, please fill in one on the `Issues` tab.
+> The script is done, but it's not fully tested yet. If you find any issue, please fill in one on the `Issues` tab.
 
 ### Manual Installation Steps
 > Copy the `chrome` and `configuration` folders into your Firefox Profile directory. Here are the detailed install steps:
