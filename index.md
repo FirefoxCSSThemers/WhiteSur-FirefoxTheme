@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## WhiteSur Theme by Agnihotra Nath
 
 You can use the [editor on GitHub](https://github.com/FirefoxCSSThemers/WhiteSur-Tweaked/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
