@@ -9,6 +9,9 @@
 ### Screenshot
 ![Preview](https://github.com/FirefoxCSSThemers/WhiteSur-Tweaked/raw/main/WhiteSur-Tweaked.png)
 
+### Version
+2.0
+
 ### Compatibility
 > This release was tested on the following platforms (only supports Firefox 70+):
 > - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
