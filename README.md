@@ -14,6 +14,15 @@
 > - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
 > - Untested on macOS and Linux. This doesn't mean it won't work on these Operating Systems, this just means it isn't tested yet. If you want to contribute, please test it on any of these and fill in an issue with the distro you use or the macOS version it was tested on, and obviously the results.
 
+### Fix for ArchLinux:
+> Paste the following into the `userChrome.css` file:
+
+`/* Headerbar */
+#nav-bar {      
+      padding: 8px 16px !important;
+      padding-left: 15px !important;
+      }`
+
 ### Automated Installation Steps
 > Download the installer file for your architecture from the `Releases` tab (`installer64.bat` for 64-bit systems; `installer32.bat` for both 32-bit and 64-bit systems).
 
