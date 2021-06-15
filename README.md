@@ -14,7 +14,7 @@
 > - Windows 10 (Home, Pro, Enterprise, LTSB, LTSC and Education)
 > - Untested on macOS and Linux. This doesn't mean it won't work on these Operating Systems, this just means it isn't tested yet. If you want to contribute, please test it on any of these and fill in an issue with the distro you use or the macOS version it was tested on, and obviously the results.
 
-### Fix for ArchLinux:
+### Fix for Window Managers:
 > Paste the following into the `userChrome.css` file:
 
 `/* Headerbar */
