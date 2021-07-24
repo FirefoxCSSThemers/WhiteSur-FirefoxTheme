@@ -1,0 +1,43 @@
+@import "userContent/NewTab.css";
+@import "userContent/Preferences.css";
+
+
+/* Import theme */
+
+@import "WhiteSur/theme.css"; /**/
+
+@import "customChrome.css"; /**/
+
+/* Fix tab not centering while playing audio */
+/* remove ":not([soundplaying]):not([muted]):not([activemediablocked])" from line 123 of taskbar.css  it should look like this*/
+.tabbrowser-tab .tab-close-button {
+    margin-left: auto !important;
+  }
+
+  /* Fix menu button size */
+/* margin-inline-start doesn't work for doing the same thing but without messing its size */
+#PanelUI-menu-button {
+    padding-inline-end: 2px !important;
+  }
+  
+  /* Fix button at the left size */
+  /* margin-inline-start doesn't work for doing the same thing but without messing its size */
+  #nav-bar-customization-target > :is(toolbarbutton, toolbaritem):first-child, #nav-bar-customization-target > toolbarpaletteitem:first-child > :is(toolbarbutton, toolbaritem) {
+    padding-inline-start: 2px !important;
+  }
+
+  /* Fix proton tabs */
+.tab-background {
+  margin-block: 0px !important;
+  border-radius: 0px !important; 
+}
+
+/* Fix proton arrows changing tab list size */
+#tabbrowser-arrowscrollbox::part(scrollbutton-up), #tabbrowser-arrowscrollbox::part(scrollbutton-down) {
+  border: 0px !important;
+}
+
+/* Fix reload button glitching (aka. remove animation) */
+.toolbarbutton-animatable-box {
+  display: none !important;
+}
