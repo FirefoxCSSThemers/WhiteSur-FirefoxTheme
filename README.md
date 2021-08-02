@@ -10,7 +10,7 @@
 > - Published by [**Javier Latorre**](https://github.com/TheGamerPro0013).
 
 ### Screenshot
-![Preview]![image](https://user-images.githubusercontent.com/78948152/127859108-f447b7f4-552b-45b3-bff0-2eecd3e5664f.png)
+![image](https://user-images.githubusercontent.com/78948152/127859108-f447b7f4-552b-45b3-bff0-2eecd3e5664f.png)
 
 ### Version
 2.0
