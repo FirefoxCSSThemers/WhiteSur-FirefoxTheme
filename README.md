@@ -1,5 +1,6 @@
 # WhiteSur Tweaked Theme
 > A Firefox theme made by Agnihotra Nath to simulate Safari on macOS Big Sur 11. Works best on Proton.
+> Based on vinceliuice's [WhiteSur-Gtk-Theme](https://github.com/vinceliuice/whitesur-gtk-theme), but code has been written from scratch.
 
 [![Discord](https://discord.com/api/guilds/857425002727079940/widget.png)](https://discord.gg/d3Mw2PHCNk)
 [![Github All Releases](https://img.shields.io/github/downloads/firefoxcssthemers/whitesur-tweaked/total.svg?style=flat&logo=github)](https://github.com/mydockfinder//releases)
