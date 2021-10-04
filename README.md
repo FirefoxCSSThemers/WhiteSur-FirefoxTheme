@@ -9,7 +9,7 @@
 ### Contributors
 > - Theme made by [**Agnihotra Nath**](https://github.com/AlfarexGuy2019) with inspiration from [**WhiteSur-Gtk-theme**](https://github.com/vinceliuice/whitesur-gtk-theme).
 > - Installation scripts made by [**Javier Latorre**](https://github.com/TheGamerPro0013) with the help of [**Lubzz**](https://github.com/Lubzz).
-> - Published by [**Javier Latorre**](https://github.com/TheGamerPro0013).
+> - Published by [**Javier Latorre**](https://github.com/TheGamerPro0013) and [**Agnihotra Nath**](https://github.com/AlfarexGuy2019).
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/78948152/127859108-f447b7f4-552b-45b3-bff0-2eecd3e5664f.png)
